@@ -2,8 +2,11 @@ BasicUserManagementSystem
 
 
 --This repository is an example for  Spring MVC and MongoDB integration with Ajax and JavaScript.
+
 --Maven build. 
+
 --Also include a captcha integration for adding user process
+
 --SpringMVC Ajax Dispatcher Servlet Configuration
 
 References: 
