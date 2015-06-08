@@ -1,0 +1,14 @@
+infonal
+=======
+
+Infonal Project - User Management System
+
+Kullanıcı ekleme, silme, güncelleme ve listeleme sistemi.Tek sayfadan oluşmaktadır.Kullanıcının isim, soyisim ve 
+telefon numarası istenmektedir.Kullanıcının gerçek mi yoksa bot mu olduğunu anlamak için ise captcha bulunmaktadır.
+İsim, soyisim, telefon numarası ve captcha kodunu giren kullanıcı kaydet butonu ile sisteme kayıt olur.
+Kullanıcı listesi ile de kayıtlı kullanıcılar anlık olarak görülebilir.Silme ve düzenleme işlemlerini ise 
+kullanıcı listesi tarafından yapabilmektedir.Silme butonu ile kullanıcıya emin misin ekranı çıkmakta ve kullanıcının
+son kararı alınmaktadır.Tamam ise kullanıcı kayıtlı sistemden silinmektedir.Güncelleme butonu ile ise kullanıcıya
+model dialog açılmaktadır.Burada kullanıcı isterse isim, soyisim, telefon numarasını güncelleme imkanı sunulmakta.Tamam ise
+kullanıcı güncellenmiş şekil de sisteme kayıt oluyor.
+
