@@ -1,4 +1,4 @@
-BasicUserManagementSystem
+#BasicUserManagementSystem
 
 
 --This repository is an example for  Spring MVC and MongoDB integration with Ajax and JavaScript.
@@ -7,7 +7,7 @@ BasicUserManagementSystem
 
 --Also include a captcha integration for adding user process
 
---SpringMVC Ajax Dispatcher Servlet Configuration
+--SpringMVC Ajax Dispatcher Servlet Configuration, Altough currently has an ugly UI/UX design, I will improving it later.
 
 References: 
 
@@ -24,3 +24,5 @@ http://www.mkyong.com/mongodb/spring-data-mongodb-hello-world-example/
 http://www.javacodegeeks.com/2013/09/spring-mvc-ajax-jquery.html
 
 http://www.javacodegeeks.com/2012/02/ajax-with-spring-mvc-3-using.html
+
+http://www.coreservlets.com/JSF-Tutorial/
