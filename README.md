@@ -7,7 +7,9 @@
 
 --Also include a captcha integration for adding user process
 
---SpringMVC Ajax Dispatcher Servlet Configuration, Altough currently has an ugly UI/UX design, I will improving it later.
+--SpringMVC Ajax Dispatcher Servlet Configuration
+
+--Although currently has an ugly UI/UX design, I will improving it later.
 
 References: 
 
